@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there  !👋
+My name is Guilherme Santos, I'm from Brazil 🇧🇷
+I'm a Junior Developer, that has been working as a Front-end developer since 2020
 
-<!--
-**GuilhermeSantosUI/GuilhermeSantosUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+##### I'm passionate about design, where my inspiration usually comes from Apple 🍎
 
-Here are some ideas to get you started:
+-  💻 Development frontend student
+- 📍 From SE living in Aracaju
+-   🏫 Attending the last year of high school at IFS - Federal Institute of Sergipe
+- 👨‍💻 Computer Technician
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me out 👇
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-01bf71?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/euguilhermests/)
