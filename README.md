@@ -12,4 +12,4 @@ I'm a Junior Developer, that has been working as a Front-end developer since 202
 
 Reach me out 👇
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-01bf71?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/euguilhermests/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-2c2f34?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/euguilhermests/)
