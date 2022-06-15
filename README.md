@@ -1,4 +1,4 @@
-## Hi there  !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there  !
 My name is Guilherme Santos, I'm from Brazil 🇧🇷
 I'm a Junior Developer, that has been working as a Front-end developer since 2020
 
